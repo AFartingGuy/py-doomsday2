@@ -1,1 +1,1 @@
-put them in a folder and run the .py
+compile the game urself cuz i can't upload the exe :(
